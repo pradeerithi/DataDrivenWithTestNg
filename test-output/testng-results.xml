@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46540" started-at="2020-06-03T19:42:21Z" finished-at="2020-06-03T19:43:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46540" started-at="2020-06-03T19:42:21Z" finished-at="2020-06-03T19:43:08Z">
+      <class name="orangeHRMUsingTestNG.OrangeHRMTestNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:orangeHRMUsingTestNG.OrangeHRMTestNG@7006c658]" name="beforeTest" is-config="true" duration-ms="10114" started-at="2020-06-04T01:12:21Z" finished-at="2020-06-04T01:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:orangeHRMUsingTestNG.OrangeHRMTestNG@7006c658]" name="login" duration-ms="11408" started-at="2020-06-04T01:12:36Z" data-provider="loginData" finished-at="2020-06-04T01:12:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:orangeHRMUsingTestNG.OrangeHRMTestNG@7006c658]" name="login" duration-ms="7926" started-at="2020-06-04T01:12:47Z" data-provider="loginData" finished-at="2020-06-04T01:12:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:orangeHRMUsingTestNG.OrangeHRMTestNG@7006c658]" name="login" duration-ms="5519" started-at="2020-06-04T01:12:55Z" data-provider="loginData" finished-at="2020-06-04T01:13:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:orangeHRMUsingTestNG.OrangeHRMTestNG@7006c658]" name="login" duration-ms="5054" started-at="2020-06-04T01:13:01Z" data-provider="loginData" finished-at="2020-06-04T01:13:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:orangeHRMUsingTestNG.OrangeHRMTestNG@7006c658]" name="afterTest" is-config="true" duration-ms="1893" started-at="2020-06-04T01:13:06Z" finished-at="2020-06-04T01:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- orangeHRMUsingTestNG.OrangeHRMTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
